@@ -1,0 +1,23 @@
+.postTitleInput {
+  display: block;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  width: 200px;
+}
+
+.postTextInput {
+  display: block;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  width: 200px;
+}
+
+.newPostBtn {
+  width: 200px;
+  height: 30px;
+}
+
+.row {
+  display: flex;
+  gap: 20px;
+}
